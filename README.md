@@ -1,5 +1,5 @@
 # chatbot-kotlin-dialogflow
-Chat app for Android made with Kotlin and Pusher that integrates a chatbot build with Dialogflow. Follow the tutorial here (to be published).
+Chat app for Android made with Kotlin and Pusher that integrates a chatbot build with Dialogflow. Follow the tutorial [here](https://pusher.com/tutorials/chatbot-kotlin-dialogflow).
 
 ## Getting Started
 
